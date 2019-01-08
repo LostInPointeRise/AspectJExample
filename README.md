@@ -27,6 +27,13 @@
 
 4.1.) New Aspect are created via "New"->"Aspect" 
 
+5.) Take a look at the example code at: https://github.com/LostInPointeRise/AspectJExample
+
+5.1.) Recomended Readings:
+
+https://tinyurl.com/ybhwszxn  
+https://tinyurl.com/ybolfm8s
+
 -> If you have an existing Maven Project, than you need to 
 add "AspectJ" Nature to it. (Remark: this is the order on Eclipse)
 
